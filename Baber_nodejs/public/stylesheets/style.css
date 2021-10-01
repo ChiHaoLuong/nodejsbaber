@@ -1,0 +1,279 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body
+{
+  background-image: url('/images/backgroundtrangchu.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.navbar-expand-sm bg-primary navbar-dark
+{
+    background: transparent;
+}
+
+
+nav
+{
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.container-fluid
+{
+    background: rgba(0, 0, 0, 0.5);
+}
+
+/*  */
+.index form
+{
+  border:  none;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-shadow: -1px -1px 60px 10px black;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.index h1
+{
+  font-size:45px;
+  color:white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.index .input-group
+{
+  margin-top: 20px;
+}
+
+.index .form-control 
+{
+  background: rgba(0, 0, 0, 0.7);
+  height: 40px;
+  padding: 19px;
+  font-size: 22px;
+  color:white;
+  
+}
+
+.indexbtn
+{
+  background: transparent;
+  font-size: 22px;
+  border: 1px solid white;
+  color:white;
+  width: 100%;
+}
+
+.index img{
+ max-width:30%;
+ margin-top: 10px;
+}
+
+.index .fas
+{
+  font-size: 40px;
+  margin-right: 10px;
+  color: white;
+}
+
+.index .col-md-6
+{
+  margin-top: 80px;
+  box-shadow: -1px -1px 60px 10px black;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+/* Trang chủ */
+
+.trangchu label
+{
+    color: white;
+}
+
+.trangchu form
+{
+   background: rgba(0, 0, 0, 0.5);
+   border: 1px solid white;
+}
+
+.trangchu .form-control 
+{
+    background: rgba(0, 0, 0, 0.7);
+    height: 40px;
+    padding: 19px;
+    font-size: 22px;
+    color:white;
+    
+}
+
+.trangchu #cardtitle
+{
+    font-size: 40px;
+    text-align: center;
+}
+
+.btn-trangchu
+{
+  background:rgba(0, 0, 0, 0.7);
+  border: none;
+  width: 100%;
+}
+
+/* Products */
+.products .form-control 
+{
+    background: rgba(0, 0, 0, 0.7);
+    height: 40px;
+    padding: 19px;
+    font-size: 22px;
+    color:white;
+    
+}
+
+.btn-products
+{
+    background: transparent;
+    font-size: 22px;
+    border: 1px solid white;
+    color:white;
+    width: 100%;
+}
+
+.creat-form
+{
+  background: rgba(0, 0, 0, 0.5);
+  border: 1px solid white;
+  margin-bottom: 50px;
+}
+
+.creat-form label
+{
+  color: white;
+}
+
+.creat-form .form-control 
+{
+    background: rgba(78, 78, 78, 0.7);
+    height: 40px;
+    padding: 19px;
+    font-size: 22px;
+    color:white;
+    
+}
+
+
+/* products details */
+.productdetails .form-control 
+{
+    background: rgba(78, 78, 78, 0.7);
+    height: 40px;
+    padding: 19px;
+    font-size: 22px;
+    color:white;
+    
+}
+
+
+/* lich hen */
+.btnlichhen
+{
+    background: transparent;
+    font-size: 15px;
+    border: 1px solid white;
+    color:white;
+    width: 100%;
+}
+
+/* khach hang */
+.khachhang .container-fluid
+{
+    background: rgba(0, 0, 0, 0.5);
+    padding-top: 80px;
+
+}
+
+.khachhang label
+{
+    color: white;
+}
+
+.khachhang form
+{
+   background: rgba(0, 0, 0, 0.5);
+   border: 1px solid white;
+}
+
+.khachhang .form-control 
+{
+    background: rgba(0, 0, 0, 0.7);
+    height: 40px;
+    padding: 19px;
+    font-size: 22px;
+    color:white;
+    
+}
+
+.btn-khachhang
+{
+    background: transparent;
+    font-size: 15px;
+    border: 1px solid white;
+    color:white;
+    width: 100%;
+}
+
+
+/* Thong ke */
+.thongke canvas
+{
+    max-width: 100%;
+    width: 100%;
+}
+
+/* Toc */
+.toc .thumbnail
+{
+    max-width:20%;
+}
+
+.toc .container-fluid
+{
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 90px;
+
+}
+
+.toc label
+{
+    color: white;
+}
+
+.toc form
+{
+   background: rgba(0, 0, 0, 0.5);
+   border: 1px solid white;
+}
+
+.toc .form-control 
+{
+    background: rgba(0, 0, 0, 0.7);
+    height: 40px;
+    padding: 19px;
+    font-size: 22px;
+    color:white;
+    
+}
+
+.btntoc
+{
+    background: transparent;
+    font-size: 22px;
+    border: 1px solid white;
+    color:white;
+    width: 100%;
+}
+
